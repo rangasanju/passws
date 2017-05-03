@@ -346,7 +346,7 @@ public class BADataService {
 	
 	
 	
-	// MEDICAL RELATED FUNCTIONS
+	// MEDICAL RELATED FUNCTIONS PASS
 	
 	
 
